@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Utku</h1>
-<h3 align="center">ML Engineer | AI Developer | Data Scientist</h3>
+Hi 👋, I'm Utku
+=====================
+
+ML Engineer | AI Developer | Data Scientist
+-------------------------------------------
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=utkuarslan5&no-bg=true&no-frame=true&column=-1&margin-w=15&margin-h=15&rank=-?,-C" alt="utkuarslan5" /></a> </p>
 
