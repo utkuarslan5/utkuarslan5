@@ -12,10 +12,7 @@ ML Engineer | AI Developer | Data Scientist
 * 🚀  I'm currently working on [Poiesy](http://www.poiesy.com/)
 * 🧠  I'm learning DevOps
 * 🤝  I'm open to collaborating on LLM Agents
-* ⚡  I am an avid electronic musician
-
-<a href="https://www.github.com/utkuarslan5" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/utkuarslan5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* ⚡  I'm an avid musician
 
 ### Skills
 
@@ -33,14 +30,8 @@ src="https://img.shields.io/github/followers/utkuarslan5?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/utkuarslan5"><img src="https://github-readme-stats.vercel.app/api?username=utkuarslan5&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="utkuarslan5's GitHub stats" /></a>
+<a href="http://www.github.com/utkuarslan5"><img src="https://github-readme-stats.vercel.app/api?username=utkuarslan5&show_icons=true&hide=stars,contribs&count_private=true&title_color=3382ed&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="utkuarslan5's GitHub stats" /></a>
 
-<a href="http://www.github.com/utkuarslan5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuarslan5&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/utkuarslan5"><img src="https://github-readme-streak-stats.herokuapp.com/?user=utkuarslan5&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-<a href="http://www.github.com/utkuarslan5"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=utkuarslan5&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/utkuarslan5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuarslan5&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="https://github.com/utkuarslan5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuarslan5&langs_count=10&title_color=3382ed&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
