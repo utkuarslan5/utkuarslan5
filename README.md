@@ -47,10 +47,5 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" />
 </picture>
 </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b><a
-href="http://www.github.com/utkuarslan5"><img src="https://github-readme-stats.vercel.app/api?username=utkuarslan5&show_icons=true&hide=stars,contribs&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="utkuarslan5's GitHub stats" /></a><a
-href="http://www.github.com/utkuarslan5"><img
+<img
 src="https://github-readme-streak-stats.herokuapp.com/?user=utkuarslan5&stroke=000000&background=ffffff&ring=f97316&fire=f97316&currStreakNum=000000&currStreakLabel=f97316&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a><a href="https://github.com/utkuarslan5" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkuarslan5&langs_count=10&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
