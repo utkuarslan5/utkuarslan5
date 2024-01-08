@@ -1,5 +1,4 @@
-Hi 👋, I'm Utku
-=====================
+![Header](./banner.png)
 
 ML Engineer | AI Developer | Data Scientist
 -------------------------------------------
