@@ -50,7 +50,4 @@ ML Engineer | AI Developer | Data Scientist
 </picture>
 </a></p>
 
-[![utkuarslan5's GitHub | Stats](https://stats.quine.sh/utkuarslan5/github?theme=light)](https://quine.sh?utm_source=widgets&utm_campaign=utkuarslan5)
-
-
 
