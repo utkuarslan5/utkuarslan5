@@ -17,11 +17,11 @@ I build scalable ML/LLM systems and ship production-grade tooling.
 
 ## 🛠️ Stack
 
-**Languages:** Python, TypeScript, SQL
-**ML/AI:** PyTorch, TensorFlow, scikit-learn, AutoML, LLM orchestration
-**Data:** Polars, Pandas, Spark, dbt
-**Infra:** FastAPI, Docker, Kubernetes, Modal, Airflow
-**Tools:** GitHub Actions, CI/CD, Redis, Postgres
+- **Languages:** Python, TypeScript, SQL
+- **ML/AI:** PyTorch, TensorFlow, scikit-learn, AutoML, LLM orchestration
+- **Data:** Polars, Pandas, Spark, dbt
+- **Infra:** FastAPI, Docker, Kubernetes, Modal, Airflow
+- **Tools:** GitHub Actions, CI/CD, Redis, Postgres
 
 ---
 
