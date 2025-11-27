@@ -1,11 +1,3 @@
-# 🧠 Utku Arslan
-
-**Systems & AI Engineer**
-
-I build scalable ML/LLM systems and ship production-grade tooling.
-
----
-
 ## ⚙️ Core Focus
 
 * End-to-end ML/LLM engineering
@@ -32,22 +24,3 @@ I build scalable ML/LLM systems and ship production-grade tooling.
 * Designed survival-prediction pipelines in biotech (Poiesy)
 * Created multi-drone coordination logic at SwarmLab
 * Delivered climate-resilience platform components at UNU-MERIT
-
----
-
-## 📦 Selected Projects
-
-* **OrgTwin** – Organizational digital-twin engine (charts, RACI, JD automation)
-* **ImmuneCell-RNN** – Cellular growth forecasting
-* **SwarmSim** – Drone coordination simulator
-* **Data-Art Engine** – Embedding-based generative visuals
-* **EcoCast** – Environmental signal forecasting
-
----
-
-## 🔗 Links
-
-- Portfolio → [https://utkuarslan5.github.io](https://utkuarslan5.github.io)
-- Kaggle → [https://kaggle.com/utkuarslan](https://kaggle.com/utkuarslan)
-- LinkedIn → [https://linkedin.com/in/utkuarslan](https://linkedin.com/in/utkuarslan)
-
