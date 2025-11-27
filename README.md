@@ -47,7 +47,7 @@ I build scalable ML/LLM systems and ship production-grade tooling.
 
 ## 🔗 Links
 
-Portfolio → [https://utkuarslan5.github.io](https://utkuarslan5.github.io)
-Kaggle → [https://kaggle.com/utkuarslan](https://kaggle.com/utkuarslan)
-LinkedIn → [https://linkedin.com/in/utkuarslan](https://linkedin.com/in/utkuarslan)
+- Portfolio → [https://utkuarslan5.github.io](https://utkuarslan5.github.io)
+- Kaggle → [https://kaggle.com/utkuarslan](https://kaggle.com/utkuarslan)
+- LinkedIn → [https://linkedin.com/in/utkuarslan](https://linkedin.com/in/utkuarslan)
 
